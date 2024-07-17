@@ -1,2 +1,22 @@
-# Cosine-Similarity-Document-Checker
-This project determines the similarity between text documents using cosine similarity. It includes steps for data cleaning and the application of cosine similarity to find how similar two or more documents are concerning each other in a given document collection.
+# Cosine Similarity for Documents
+
+This project calculates the cosine similarity between documents. It is useful for determining the similarity between text documents, which is a common task in natural language processing (NLP).
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Files](#files)
+- [License](#license)
+
+## Installation
+
+To run this project, you'll need Python and the following libraries:
+- numpy
+- pandas
+- sklearn
+
+You can install these using pip:
+
+```bash
+pip install numpy pandas sklearn
